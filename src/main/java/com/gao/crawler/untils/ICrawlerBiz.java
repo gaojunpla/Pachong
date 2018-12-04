@@ -1,4 +1,4 @@
-package com.gao.crawler.biz;
+package com.gao.crawler.untils;
 
 public interface ICrawlerBiz {
 }
